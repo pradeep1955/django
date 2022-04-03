@@ -1,0 +1,1 @@
+This django blogging app is deployed on Amazon AWS ec2 unbuntu instance.Th e app is working fine except the change pass word and forget password is not workingI am new coder just followed Crey Schafers tutorial to deploy the project If any one can fix the it please send me pull request
